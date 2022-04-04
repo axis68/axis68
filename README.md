@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @axis68
+- ⛄️ I've been brought up in computer science since the 80's
+- 👀 I’m interested in object-oriented programming, CI/CD, Software Architecture, Guitar, Piano, literature, cinema, international culture
+- 🌱 I’m currently learning JavaScript, React, piano
+- 💞️ I’m looking to collaborate on articles or projects
+- 📫 How to reach me https://julienmesser.wixsite.com/la-cabane-rouge
